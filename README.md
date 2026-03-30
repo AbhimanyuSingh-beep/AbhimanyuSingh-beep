@@ -41,12 +41,54 @@ class Abhimanyu {
 
 ---
 
+## 🔐 BeastVault — My Project
+
+<div align="center">
+
+```
+██████╗ ███████╗ █████╗ ███████╗████████╗
+██╔══██╗██╔════╝██╔══██╗██╔════╝╚══██╔══╝
+██████╔╝█████╗  ███████║███████╗   ██║   
+██╔══██╗██╔══╝  ██╔══██║╚════██║   ██║   
+██████╔╝███████╗██║  ██║███████║   ██║   
+╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝  
+ ██╗   ██╗ █████╗ ██╗   ██╗██╗  ████████╗
+ ██║   ██║██╔══██╗██║   ██║██║  ╚══██╔══╝
+ ██║   ██║███████║██║   ██║██║     ██║   
+ ╚██╗ ██╔╝██╔══██║██║   ██║██║     ██║   
+  ╚████╔╝ ██║  ██║╚██████╔╝███████╗██║   
+   ╚═══╝  ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  
+```
+
+**[ STREAM · CODE · EXPLORE ]**
+
+</div>
+
+> 🦁 Founder & Developer of **[BeastVault](https://beastvault07.netlify.app/)** — an all-in-one content platform built from scratch.
+
+| Feature | Description |
+|---|---|
+| 📦 Video Vault | Upload, store & stream personal videos via Cloudinary |
+| 🎬 YouTube Explorer | Search & watch 800M+ YouTube videos inside the app |
+| ⌨️ Live Code IDE | Monaco-powered multi-language code editor with live output |
+| 🎌 Anime & Content | Curated anime, trending & category-based video feeds |
+| 🔍 Doubt Search | Google, Wikipedia & web search — without leaving the tab |
+| 📋 Thought Board | Notes & export to PDF, built-in |
+| 📡 YouTube Shorts Publisher | Publish vault videos as YouTube Shorts directly |
+| 👥 Live Call & Sync | Watch-together with live call support |
+
+[![Visit BeastVault](https://img.shields.io/badge/🔐%20Visit%20BeastVault-Live%20Now-blueviolet?style=for-the-badge)](https://beastvault07.netlify.app/)
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages**
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 **Focus Areas**
 
