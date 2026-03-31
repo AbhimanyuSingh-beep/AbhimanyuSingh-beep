@@ -64,7 +64,7 @@ class Abhimanyu {
 
 </div>
 
-> 🦁 Founder & Developer of **[BeastVault](https://beastvault07.netlify.app/)** — an all-in-one content platform built from scratch.
+> 🦁 Founder & Developer of **[BeastVault](https://vaultbe.netlify.app/)** — an all-in-one content platform built from scratch.
 
 | Feature | Description |
 |---|---|
