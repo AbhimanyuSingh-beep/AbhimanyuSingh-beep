@@ -26,7 +26,7 @@ class Abhimanyu {
     string university  = "VIT Bhopal University";
     string regNo       = "25BCE10956";
     string branch      = "B.Tech CSE";
-    float  cgpa        = 9.3;
+    float  cgpa        = 8.8;
 
     vector<string> currentlyLearning = {
         "Graph Algorithms (BFS, DFS)",
